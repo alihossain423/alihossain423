@@ -178,7 +178,7 @@ def meyexudi():
       print(' \x1b[1;97m║══[𝟸] WI-FI  AND DATA BOTH WORKING 100%')
       print(" \x1b[0m║══[𝟸] YOUR KEY : "+id)
       input(' \033[1;30m╚══[𝟹] IF U WANT TO BUY THEN PRESS ENTER ')
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://m.me/100000739035643?text='+tks),approval(T2010325WEDMAR6180653KS)      
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://m.me/100000739035643?text='+tks),approval()      
       time.sleep(1)
       meyexudi()
   except:
@@ -227,7 +227,7 @@ python FILE.py''')
     else:
         print('\n Select Wrong option ... ')
         time.sleep(2)
-        ASIF(allkey)
+        ALI(allkey)
        # 
 #---------------------[ USER - AGENT ] -------------------#
 def uaxxx():
@@ -259,7 +259,7 @@ def method_crack():
         methods.append('methodD')
         main_crack().crack(id)
     elif option =='0':
-        ASIFgift()
+        ALIgift()
     else:
       print('\n Select Wrong Option ...')
       time.sleep(2)
@@ -727,11 +727,11 @@ class main_crack():
                    except:pass
             result(oks,cps)   
 
-menu()C' in methods:
-                                ASIFgift.submit(self.methodC, uid, name, pwx)
-                            elif 'methodD' in methods:
-                                ASIFgift.submit(self.methodD, uid, name, pwx)
-                   except:pass
+#menu()C' in methods:
+                               #ALIgift.submit(self.methodC, uid, name, pwx)
+                            #elif 'methodD' in methods:
+                                #ASIFgift.submit(self.methodD, uid, name, pwx)
+                   #except:pass
             result(oks,cps)   
 
 menu()
